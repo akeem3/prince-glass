@@ -1,5 +1,7 @@
 export default function Home() {
   return (
-    <div></div>
+    <div>
+      <h1 className="text-4xl">Welcome to my gay website</h1>
+    </div>
   );
 }
